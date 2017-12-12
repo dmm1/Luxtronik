@@ -1,0 +1,9 @@
+{
+	"elements":
+	[
+		{ "name": "IPAddress",        "type": "ValidationTextBox", "caption": "IP-Addresse/Host" },
+		{ "name": "Port",         "type": "ValidationTextBox", "caption": "Port" },
+		{ "name": "Name",     "type": "ValidationTextBox", "caption": "Name" }
+		
+	]	
+}
