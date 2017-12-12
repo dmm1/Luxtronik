@@ -1,9 +1,10 @@
 {
 	"elements":
 	[
-		{ "name": "IPAddress",        "type": "ValidationTextBox", "caption": "IP-Addresse/Host" },
-		{ "name": "Port",         "type": "ValidationTextBox", "caption": "Port" },
-		{ "name": "Name",     "type": "ValidationTextBox", "caption": "Name" }
-		
-	]	
+		{ "name": "Active", 		"type": "CheckBox", "caption": "Activate Instance" },
+		{ "name": "IPAddress",  "type": "ValidationTextBox", "caption": "IP-Addresse/Host" },
+		{ "name": "Port",       "type": "ValidationTextBox", "caption": "Port" },
+		{ "name": "Name",     	"type": "ValidationTextBox", "caption": "Name" }
+
+	]
 }
